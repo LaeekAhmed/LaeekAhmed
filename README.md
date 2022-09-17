@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi there 👋 I am Laeek Ahmed,
 
 - 🔭 I’m currently studying Computer Science at McMaster University.
 - 🌱 I’m currently looking for summer 2023 coop. 
