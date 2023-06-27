@@ -1,10 +1,10 @@
 ### Hi there 👋 I am Laeek Ahmed,
 
 - 🔭 Currently studying Computer Science at McMaster University.
-- 🌱 Actively looking for summer 2023 coop. 
-- 🤔 Looking for help with redis server side caching in heroku.
+- 🧑‍💻 Actively looking for internship opportunities!
 - 💻 My technical skills ;  
-       **Languages:**  Python, C/C++,  SQL, Java, JavaScript, HTML/CSS.  
-       **Technologies/Frameworks :** Express-JS, Node-JS, React-JS, Tkinter-PY, Git/Github, SQLite, MongoDB Atlas.
-- 📫 contact me through my email : laeek385@gmail.com.
-- 👨‍💻 LinkedIn : https://www.linkedin.com/in/laeek-ahmed-shaikh/
+       **Languages:**  Python, C/C++, SQL, Bash, Java, TypeScipt/JavaScript, GraphQL, HTML/CSS  
+       **Libs/Frameworks:** Express-JS, React-JS, Tkinter-PY, SQLite, Matplotlib
+       **Tools:** GitHub, Docker, MongoDB Atlas, aws s3, Jupyter 
+- 📫 Email: (laeek385@gmail.com)[laeek385@gmail.com]
+- 🌿 LinkedIn : [laeek-ahmed](https://www.linkedin.com/in/laeek-ahmed-shaikh/)
