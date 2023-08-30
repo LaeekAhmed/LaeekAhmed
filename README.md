@@ -14,7 +14,7 @@ Currently studying Computer Science at McMaster University.
 
 **Tools:**  GCP, GitHub, Docker, Terraform, WSL, Linux, MongoDB Atlas, Jupyter, Insomnia/Postman, SQLite  
 
-**Big Data:**  Airflow, Spark, BigQuery, Dbt, Dataproc, Hadoop, Hive
+**Big Data:**  Airflow, Spark, BigQuery, Dbt, Dataproc, Hadoop, Hive, Looker studio
 
 ---
 ### Contact 📫
