@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Laeek Ahmed,
 
 Computer Science @ McMaster University  
-Aspiring Software & Data Engineer
+Aspiring Software & Data Engineer 👨‍💻
 
 <!-- > [!IMPORTANT]
 > Actively seeking **internship/Co-op** positions in Software Engineering, Data Engineering, and Data Analysis! -->
