@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Laeek Ahmed, 
+## Hi there! 👋 I'm Laeek Ahmed
 
 A computer science student 💻 at McMaster University with interest in Software Development, Cloud computing, Data and ML Engineering.
 <!--
