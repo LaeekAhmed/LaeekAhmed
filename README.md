@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Laeek Ahmed
 
-A computer science student 💻 at McMaster University with interest in Software Development, Cloud computing, Data and ML Engineering.
+A computer science student 💻 at McMaster University with interest in Software Development, Cloud computing, Infra and Devops
 <!--
 Computer Science @ McMaster University  
 Aspiring Software & Data Engineer <span style="font-size:50px;">👨‍💻</span>
